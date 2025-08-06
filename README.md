@@ -6,7 +6,7 @@
 
 
 
-O **NutriCheck** é um sistema de apoio à checagem automatizada de informações nutricionais baseado Inteligência Artifical. Utilizando técnicas de Processamento de Linguagem Natural (PLN), a proposta é identificar possíveis *fake news* relacionadas à alimentação e nutrição.
+O **NutriCheck** é um sistema de apoio à checagem automatizada de informações nutricionais baseado em Inteligência Artifical. Utilizando técnicas de Processamento de Linguagem Natural (PLN), a proposta é identificar possíveis *fake news* relacionadas à alimentação e nutrição.
 
 ## Descrição do Projeto
 
@@ -24,4 +24,7 @@ O projeto tem como objetivo criar uma ferramenta acessível, com foco na constru
 **Orientador:** [Prof. Lucas Almeida](https://github.com/lasilva)
 
 ##
-Sistemas de Informação - Centro Universitário de Excelência (UNEX)
+Centro Universitário de Excelência (UNEX) - Sistemas de Informação 
+
+<img src="https://unex.edu.br/wp-content/themes/uniftc-iwwa/img/logos/logo.svg" alt="Logo Unex" width="100"/>
+
